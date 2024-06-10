@@ -1,21 +1,16 @@
 @font-face {
     font-family: 'Merriweather';
-    src: url('./font/Merriweather-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'Danfo';
-    src: url('./font/Danfo/Danfo-Regular-VariableFont_ELSH.ttf');
+    src: url('Merriweather-Regular.ttf');
 }
 
 @font-face {
     font-family: 'playfair';
-    src: url(./font/PlayfairDisplay-VariableFont_wght.ttf);
+    src: url(PlayfairDisplay-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-family: 'marker';
-    src: url(./font/PermanentMarker-Regular.ttf);
+    src: url(PermanentMarker-Regular.ttf);
 }
 
 html {background-color: black}
